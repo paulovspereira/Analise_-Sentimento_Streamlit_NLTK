@@ -2,7 +2,7 @@
 
 Olá! Este projeto foi desenvolvido por **Paulo Pereira** como parte do portfólio de transição para a área de **Analista de Inteligência Artificial** 🚀
 
-O objetivo é criar uma aplicação simples de análise de sentimento usando **Streamlit** e **NLTK (VADER)** para avaliar a satisfação de clientes.
+O objetivo é criar uma aplicação simples de análise de sentimento usando **Streamlit** e **NLTK** para avaliar a satisfação de clientes.
 
 ---
 
